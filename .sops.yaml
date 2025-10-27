@@ -1,5 +1,5 @@
 keys:
-  - &age age1m8eyjraj252zrx067ess29as73yl8jkyfjmlqc6zmp02vhmeuv6qkd5vsd
+  - &age age1dns2gwpv07g83js3vuqazvlgrwzm78h75hd3xcxqrtwwmsdjsglsu42s0v
 creation_rules:
   - path_regex: \.enc\.yaml$
     encrypted_regex: '^(data|stringData)$'
